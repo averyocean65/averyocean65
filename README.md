@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Avery</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mindlesssea&label=Profile%20views&color=0e75b6&style=flat" alt="mindlesssea" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=averyocean65&label=Profile%20views&color=0e75b6&style=flat" alt="averyocean65" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
